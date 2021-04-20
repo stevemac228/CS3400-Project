@@ -1,0 +1,25 @@
+
+Tile Floor
+Tile RockBM 
+Tile Bed 
+Tile Bookshelf 
+Tile Boxes
+Tile Chair 
+Tile Drawer 
+Tile Door 
+Tile Fridge 
+Tile LampStand 
+Tile Lamp
+Tile Paintings 
+Tile Platform 
+Tile Plant 
+Tile Sofa 
+Tile Table 
+Tile Heart 
+Tile Salt
+Tile Table
+Tile Clock
+Tile Key
+NPC  Knight 
+NPC  Tektite
+ 

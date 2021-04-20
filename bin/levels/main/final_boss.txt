@@ -1,0 +1,92 @@
+Tile RockBM 1 1 32 736 1 1 
+Tile RockBM 1 1 96 736 1 1 
+
+
+Tile RockBM 1 1 160 736 1 1
+Tile RockBM 1 1 224 736 1 1 
+Tile RockBM 1 1 288 736 1 1 
+
+Tile RockBM 1 1 288 736 1 1
+Tile RockBM 1 1 352 736 1 1
+Tile RockBM 1 1 416 736 1 1
+Tile RockBM 1 1 1248 736 1 1
+Tile RockBM 1 1 1184 736 1 1 
+Tile RockBM 1 1 1120 736 1 1 
+Tile RockBM 1 1 1056 736 1 1 
+Tile RockBM 1 1 992 736 1 1
+Tile RockBM 1 1 928 736 1 1 
+Tile RockBM 1 1 864 736 1 1 
+
+
+Tile RockBM 1 1 608 736 1 1 
+Tile RockBM 1 1 544 736 1 1 
+Tile RockBM 1 1 480 736 1 1 
+Tile RockBM 1 1 416 736 1 1 
+Tile RockBM 1 1 352 736 1 1
+
+
+
+Tile RockBM 1 1 32 32 1 1
+Tile RockBM 1 1 32 96 1 1
+Tile RockBM 1 1 32 160 1 1
+Tile RockBM 1 1 32 224 1 1
+Tile RockBM 1 1 32 288 1 1
+Tile RockBM 1 1 32 352 1 1
+Tile RockBM 1 1 32 416 1 1
+Tile RockBM 1 1 32 480 1 1
+Tile RockBM 1 1 32 544 1 1
+Tile RockBM 1 1 32 608 1 1
+Tile RockBM 1 1 32 672 1 1
+
+Tile RockBM 1 1 1248 32 1 1
+Tile RockBM 1 1 1248 96 1 1
+Tile RockBM 1 1 1248 160 1 1
+Tile RockBM 1 1 1248 224 1 1
+Tile RockBM 1 1 1248 288 1 1
+Tile RockBM 1 1 1248 352 1 1
+Tile RockBM 1 1 1248 416 1 1
+Tile RockBM 1 1 1248 480 1 1
+Tile RockBM 1 1 1248 544 1 1
+Tile RockBM 1 1 1248 608 1 1
+Tile RockBM 1 1 1248 672 1 1
+
+MovingTile RockBM 1 1 722 736 1 1 2 2 722 736 722 352
+
+Tile RockBM 1 1 32 352 1 1 
+Tile RockBM 1 1 96 352 1 1
+Tile RockBM 1 1 160 352 1 1 
+Tile RockBM 1 1 224 352 1 1 
+Tile RockBM 1 1 288 352 1 1 
+Tile RockBM 1 1 352 352 1 1 
+Tile RockBM 1 1 416 352 1 1
+Tile RockBM 1 1 1248 352 1 1 
+Tile RockBM 1 1 1184 352 1 1 
+Tile RockBM 1 1 1120 352 1 1 
+Tile RockBM 1 1 1056 352 1 1 
+Tile RockBM 1 1 992 352 1 1 
+Tile RockBM 1 1 928 352 1 1 
+Tile RockBM 1 1 864 352 1 1
+Tile Bed 1 1 232 610 0 0 
+Tile Door 1 1 1064 160 0 0 
+Tile Key 1 1 224 544 0 0 
+Tile Chair 1 1 1188 610 0 0 
+Tile LampStand 1 1 928 608 0 0 
+Tile Lamp 1 1 298 426 0 0 
+Tile Paintings 1 1 544 160 0 0 
+Tile Sofa 1 1 226 240 0 0 
+Tile Table 1 1 1056 672 0 0 
+Tile Fridge 1 1 106 586 0 0 
+Tile Clock 1 1 420 230 0 0 
+Tile Heart 1 1 224 96 0 0 
+Tile Salt 1 1 555 666 0 0 
+Tile Clock 1 1 560 160 0 0
+
+Player 640 360 64 150 5 3 -20 20 0.75 
+
+NPC Tektite  0 0 153 163 0 0 5 2 Follow 2
+NPC Knight 0 0 708 163 0 0 5 2 Find
+NPC Knight 0 0 108 163 0 0 5 2 Find
+NPC Knight 0 0 708 663 0 0 5 2 Find
+
+NPC Tektite  0 0 1003 163 0 0 5 2 Follow 2
+

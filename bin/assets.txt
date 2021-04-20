@@ -1,0 +1,132 @@
+Texture   TexExplode    images/misc/explosion128.png
+Texture   TexSalt	images/misc/salt.png
+Texture   TexBedHide    images/tloz/house/Bed_Hide.png
+Texture   TexBoxesHide  images/tloz/house/Boxes_Hide.png
+Texture   TexDoorHide   images/tloz/house/Door_Hide.png
+Texture   TexFridgeHide images/tloz/house/Fridge_Hide.png
+Texture   TexRunDown    images/tloz/run_down.png              
+Texture   TexRunRight   images/tloz/run_right.png
+Texture   TexRunUp      images/tloz/run_up.png
+Texture   TexStandD     images/tloz/stand_down.png              
+Texture   TexStandR     images/tloz/stand_right.png
+Texture   TexStandU     images/tloz/stand_up.png
+Texture   TexAtkDown    images/tloz/attack_down.png
+Texture   TexAtkRight   images/tloz/attack_right.png
+Texture   TexAtkUp      images/tloz/attack_up.png
+Texture   TexSwordUp    images/tloz/item_sword_up.png
+Texture   TexKey        images/tloz/key.png
+Texture   TexClock      images/tloz/item_clock.png
+Texture   TexSwordRight images/tloz/item_sword_right.png
+Texture   TexGet1       images/tloz/get1.png
+Texture   TexGet2       images/tloz/get2.png
+Texture   TexRockTL     images/tloz/green/tile_rock_tl.png
+Texture   TexRockTM     images/tloz/green/tile_rock_tm.png
+Texture   TexRockTR     images/tloz/green/tile_rock_tr.png
+Texture   TexRockBL     images/tloz/green/tile_rock_bl.png
+Texture   TexRockBM     images/tloz/green/tile_rock_bm.png
+Texture   TexRockBR     images/tloz/green/tile_rock_br.png
+Texture   TexWaterTL    images/tloz/green/tile_water_tl.png
+Texture   TexWaterTM    images/tloz/green/tile_water_tm.png
+Texture   TexWaterTR    images/tloz/green/tile_water_tr.png
+Texture   TexWaterML    images/tloz/green/tile_water_ml.png
+Texture   TexWaterMM    images/tloz/green/tile_water_mm.png
+Texture   TexWaterMR    images/tloz/green/tile_water_mr.png
+Texture   TexWaterBL    images/tloz/green/tile_water_bl.png
+Texture   TexWaterBM    images/tloz/green/tile_water_bm.png
+Texture   TexWaterBR    images/tloz/green/tile_water_br.png
+Texture   TexTreeTL     images/tloz/green/tile_tree_tl.png
+Texture   TexTreeTM     images/tloz/green/tile_tree_tm.png
+Texture   TexTreeTR     images/tloz/green/tile_tree_tr.png
+Texture   TexTreeBL     images/tloz/green/tile_tree_bl.png
+Texture   TexTreeBR     images/tloz/green/tile_tree_br.png
+Texture   TexBed     images/tloz/house/Bed.png
+Texture   TexBookshelf     images/tloz/house/Bookshelf.png
+Texture   TexBoxes     images/tloz/house/Boxes.png
+Texture   TexChair     images/tloz/house/Chair.png
+Texture   TexDoor     images/tloz/house/Door.png
+Texture   TexDoorOpen     images/tloz/house/Door_open.png
+Texture   TexDrawer    images/tloz/house/Drawer.png
+Texture   TexFridge    images/tloz/house/Fridge.png
+Texture   TexLampStand    images/tloz/house/Lamp_Stand.png
+Texture   TexLamp   images/tloz/house/Lamp.png
+Texture   TexPaintings   images/tloz/house/Paintings.png
+Texture   TexPlant   images/tloz/house/Plant.png
+Texture   TexPlatform   images/tloz/house/Platform.png
+Texture   TexSofa   images/tloz/house/Sofa.png
+Texture   TexTable   images/tloz/house/Table.png
+Texture   WoodFloor       images/tloz/green/tile_wooden_floor.png
+Texture   TexBlack      images/tloz/tile_black.png
+Texture   TexTektite    images/tloz/tektite.png
+Texture   TexKnight     images/tloz/knight.png
+Texture   TexHeart      images/tloz/item_heart.png
+Animation Explosion     TexExplode     48    2 
+Animation Salt		TexSalt         1    0
+Animation RunDown       TexRunDown      2   15   
+Animation RunRight      TexRunRight     2   15    
+Animation RunUp         TexRunUp        2   15
+Animation StandDown     TexStandD       1    0   
+Animation StandRight    TexStandR       1    0    
+Animation StandUp       TexStandU       1    0
+Animation Tektite       TexTektite      2   10
+Animation Knight        TexKnight       2   10
+Animation AtkUp         TexAtkUp        1    0
+Animation AtkDown       TexAtkDown      1    0
+Animation AtkRight      TexAtkRight     1    0   
+Animation SwordUp       TexSwordUp      1    0
+Animation SwordRight    TexSwordRight   1    0
+Animation Black         TexBlack        1    0
+Animation RockTL        TexRockTL       1    0
+Animation Clock        TexClock      1    0
+Animation Key        TexKey       1    0
+Animation RockTM        TexRockTM       1    0
+Animation RockTR        TexRockTR       1    0
+Animation RockBL        TexRockBL       1    0
+Animation RockBM        TexRockBM       1    0
+Animation RockBR        TexRockBR       1    0
+Animation WaterTL       TexWaterTL      1    0
+Animation WaterTM       TexWaterTM      1    0
+Animation WaterTR       TexWaterTR      1    0
+Animation WaterML       TexWaterML      1    0
+Animation WaterMM       TexWaterMM      1    0
+Animation WaterMR       TexWaterMR      1    0
+Animation WaterBL       TexWaterBL      1    0
+Animation WaterBM       TexWaterBM      1    0
+Animation WaterBR       TexWaterBR      1    0
+Animation TreeTL        TexTreeTL       1    0
+Animation TreeTM        TexTreeTM       1    0
+Animation TreeTR        TexTreeTR       1    0
+Animation TreeBL        TexTreeBL       1    0
+Animation TreeBR        TexTreeBR       1    0
+Animation Bed           TexBed          1    0
+Animation Bed_Hide      TexBedHide      1    0
+Animation Bookshelf     TexBookshelf    1    0
+Animation Boxes         TexBoxes        1    0
+Animation Boxes_Hide    TexBoxesHide    1    0
+Animation Chair         TexChair        1    0
+Animation Door          TexDoor         1    0
+Animation DoorOpen      TexDoorOpen         1    0
+Animation Door_Hide     TexDoorHide     1    0
+Animation Drawer        TexDrawer       1    0
+Animation Fridge        TexFridge       1    0
+Animation Fridge_Hide   TexFridgeHide   1    0
+Animation LampStand     TexLampStand    1    0
+Animation Lamp          TexLamp         1    0
+Animation Paintings     TexPaintings    1    0
+Animation Plant         TexPlant        1    0
+Animation Platform      TexPlatform     1    0
+Animation Sofa          TexSofa         1    0
+Animation Table         TexTable        1    0
+Animation Floor         WoodFloor       1    0
+Animation Heart         TexHeart        1    0
+Sound     MusicTitle    sounds/title.ogg
+Sound     MusicLevel    sounds/music.ogg
+Sound     Slash         sounds/LOZ_Sword_Slash.wav
+Sound     LinkHurt      sounds/LOZ_Link_Hurt.wav
+Sound     LinkDie       sounds/LOZ_Link_Die.wav
+Sound     EnemyHit      sounds/LOZ_Enemy_Hit.wav
+Sound     EnemyDie      sounds/LOZ_Enemy_Die.wav
+Sound     GetItem       sounds/LOZ_Get_Item.wav
+Font      Arial         fonts/arial.ttf
+Font      Mario         fonts/mario.ttf
+Font      Megaman    fonts/megaman.ttf
+Font      Visitors    fonts/Amatic-Bold.ttf
